@@ -1,6 +1,3 @@
-Sure — here is a **short, clean, GitHub-ready README** that still covers all the VORTEXTECH requirements:
-
-````markdown
 # 🎬 Sentiment Analysis Model
 
 ## VORTEXTECH AI & ML Internship — Week 4
@@ -113,9 +110,6 @@ notebooks/sentiment_analysis.ipynb
 ## 👩‍💻 Author
 
 **Madhubala**
-VORTEXTECH AI & ML Internship — 2026
 
-```
 
-This version is **concise enough for GitHub**, while still documenting the dataset, approach, model, evaluation, limitation, installation, and project structure.
-```
+
