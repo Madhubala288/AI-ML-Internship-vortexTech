@@ -1,0 +1,4 @@
+# Datasets ignore
+*.csv
+aclImdb/
+vortextech-aiml-week4/notebooks/aclImdb/
